@@ -1,0 +1,21 @@
+{
+  "app_name": "THE-DAIRY",
+  "nav_journal": "日记",
+  "nav_insights": "洞察",
+  "nav_settings": "设置",
+  "journal_new_entry": "新建记录",
+  "journal_hint_text": "今天想记录些什么？",
+  "save": "保存",
+  "cancel": "取消",
+  "companion_title": "陪伴设置",
+  "companion_persona": "陪伴人设",
+  "companion_tone": "语调强度",
+  "companion_intimacy": "亲密度",
+  "companion_frequency": "触达频率",
+  "paywall_title": "解锁高级功能",
+  "backup_export": "加密导出",
+  "backup_import": "导入恢复",
+  "disclaimer_title": "免责声明",
+  "disclaimer_body": "本应用不提供医疗建议，建议仅用于自我关怀与反思。"
+}
+

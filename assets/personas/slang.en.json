@@ -1,0 +1,9 @@
+{
+  "packs": {
+    "youth_general": {
+      "hello": ["hey", "yo", "hi there"],
+      "encourage": ["you got this", "lets go", "we got this"]
+    }
+  }
+}
+

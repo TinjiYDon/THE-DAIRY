@@ -1,0 +1,8 @@
+{
+  "habits": [
+    { "id": "breath_3x", "title_zh": "三次慢呼吸", "title_en": "3 slow breaths", "duration_sec": 30, "tags": ["stress", "low_mood"] },
+    { "id": "water_cup", "title_zh": "喝一杯水", "title_en": "Drink a glass of water", "duration_sec": 60, "tags": ["fatigue"] },
+    { "id": "stretch_1min", "title_zh": "一分鐘伸展", "title_en": "1 min stretch", "duration_sec": 60, "tags": ["sedentary"] }
+  ]
+}
+

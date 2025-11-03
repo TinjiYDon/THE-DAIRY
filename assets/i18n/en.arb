@@ -1,0 +1,21 @@
+{
+  "app_name": "THE-DAIRY",
+  "nav_journal": "Journal",
+  "nav_insights": "Insights",
+  "nav_settings": "Settings",
+  "journal_new_entry": "New Entry",
+  "journal_hint_text": "Anything you'd like to note today?",
+  "save": "Save",
+  "cancel": "Cancel",
+  "companion_title": "Companion Settings",
+  "companion_persona": "Persona",
+  "companion_tone": "Tone",
+  "companion_intimacy": "Closeness",
+  "companion_frequency": "Reach Frequency",
+  "paywall_title": "Unlock Premium",
+  "backup_export": "Encrypted Export",
+  "backup_import": "Import and Restore",
+  "disclaimer_title": "Disclaimer",
+  "disclaimer_body": "This app does not provide medical advice. Use for self-care and reflection."
+}
+

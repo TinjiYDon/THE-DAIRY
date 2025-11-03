@@ -1,0 +1,8 @@
+{
+  "weekly": {
+    "intro": "这周被自己看见了 {count} 次。",
+    "highlights": "最稳定的时刻：{top_moments}",
+    "next_step": "下周，试试把 {suggestion} 变得更轻一点。"
+  }
+}
+

@@ -1,0 +1,10 @@
+{
+  "sequence": [
+    { "inhale_sec": 4, "hold_sec": 2, "exhale_sec": 6, "rounds": 3 }
+  ],
+  "copy": [
+    "吸气……停留……缓缓呼出。",
+    "很好，就这样，给自己一点空间。"
+  ]
+}
+
