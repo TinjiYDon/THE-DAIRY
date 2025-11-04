@@ -6,6 +6,7 @@ import '../features/settings/settings_page.dart';
 
 GoRouter createRouter() {
   return GoRouter(
+    initialLocation: '/',
     routes: <RouteBase>[
       GoRoute(
         path: '/',
