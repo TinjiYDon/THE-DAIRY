@@ -1,0 +1,7 @@
+# AI modules placeholder
+# This directory will contain:
+# - onnx_runtime_adapter.dart
+# - sentiment_service.dart
+# - symptom_extractor.dart
+# - rules/ (tone_engine, scenario_triggers, content_filters)
+

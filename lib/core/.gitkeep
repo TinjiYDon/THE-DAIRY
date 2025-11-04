@@ -1,0 +1,7 @@
+# Core modules placeholder
+# This directory will contain:
+# - crypto/ (keystore, encryptor)
+# - i18n/ (localization adapter)
+# - platform/ (permissions, file_system)
+# - safety/ (crisis_resources)
+

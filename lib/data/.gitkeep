@@ -1,0 +1,5 @@
+# Data layer placeholder
+# This directory will contain:
+# - db/ (database, migrations)
+# - models/ (entry, insight, settings)
+
